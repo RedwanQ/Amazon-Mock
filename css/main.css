@@ -7,7 +7,89 @@ body{
     width: 50px;
     margin: 0 auto;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 35px;   
+    margin-left: 750px;
+    margin-right: 1px;
+    margin-top: 35px;
+         
 }
+
+body {
+  margin: 0px;
+  padding: 0px;
+  height: 200px;
+  width: 300px;
+}
+.Mbox {
+position: absolute;
+top: 45%;
+left: 50%;
+transform: translate(-50%, -50%);
+background: white;
+width: 400px;
+border: 1px solid black;
+
+}
+.H11 {
+  text-align: center;
+  padding: 0px 0px 20px 0px;
+  border-bottom: 1px solid silver;
+}
+
+form {
+  padding: 0px 40px;
+  box-sizing: border-box;
+}
+
+.txtf{
+  position: relative;
+  border-bottom: 2px solid silver;
+  margin: 70px 0px;
+
+}
+.txtf input {
+  width: 300px;
+  padding: 0px 5px;
+  height: 25px;
+
+}
+.Con {
+ background-color: #FF9900;
+ position: relative;
+ left: 9px;
+ top: 15px;
+ 
+ 
+  
+}
+.Needhelp {
+  position: relative;
+  left: 270px;
+  top: 120px;
+  
+  
+}
+
+.Cre {
+  background-color: light grey;
+  position: relative;
+  top: 120px;
+  right: 35px;
+  left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+
+
+
+  
